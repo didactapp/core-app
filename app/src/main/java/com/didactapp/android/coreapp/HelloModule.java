@@ -5,5 +5,6 @@ package com.didactapp.android.coreapp;
  */
 
 public class HelloModule {
-//    Hello
+//    HELOOOOOOO
 }
+

@@ -23,4 +23,11 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+    //    used to parse fake json data
+    compile 'com.google.code.gson:gson:2.8.2'
+    //    used to download and display images
+    compile 'com.squareup.picasso:picasso:2.5.2'
+//    log printout library
+    compile 'com.apkfuns.logutils:library:1.5.1.1'
 }
